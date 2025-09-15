@@ -1,1 +1,1 @@
-Hey in this repository, I'll be sharing my dsa practises and daily problems that i usually solve to keep up with my consistency to build my logic thinking.
+Hey in this repository, I'll be sharing my dsa practises and daily problems that i usually solve to keep up with my consistency to build my logic thinking. Here i specifically share only array related problems. You may find helpful for you one day and also if you were a beginner, you may find it valuable.
